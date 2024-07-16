@@ -1,5 +1,5 @@
 <h1>eSubhalekha.com</h1>
-## eSubhalekha: Personalized Wedding Invitation Platform
+eSubhalekha: Personalized Wedding Invitation Platform.
 This platform allows users to create and send personalized wedding invitations online, leveraging the power of the GraphenePHP framework and MySQL for backend management.
 
 ## Features
